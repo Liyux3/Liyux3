@@ -2,7 +2,7 @@
 
 EECS honors @ HKU. I work on robot learning, applied ML, and occasionally build tools to speed up research.
 
-Interested in flow matching policies, imitation learning, distribution shift, and survey harmonization.
+Interested in how robots can learn manipulation skills efficiently, and what happens when ML models meet messy, heterogeneous real-world data.
 
 #### Projects
 
@@ -14,5 +14,4 @@ Interested in flow matching policies, imitation learning, distribution shift, an
 
 #### Tools
 
-Python · PyTorch · scikit-learn · ROS · C++ · React · Node.js
-
+Python · C++ · PyTorch · scikit-learn · ROS · SHAP · XGBoost
