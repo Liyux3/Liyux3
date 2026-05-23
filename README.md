@@ -2,7 +2,7 @@
 
 ECE @ HKU. I work on robot learning, applied ML, and occasionally build tools to speed up research.
 
-Interested in how AI systems abstract from experience and generalize across contexts.
+Interested in how AI systems abstract from experience and generalize across messy, heterogeneous real-world conditions.
 
 #### Projects
 
