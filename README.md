@@ -1,6 +1,6 @@
 ## Yuxian Li
 
-EECS honors @ HKU. I work on robot learning, applied ML, and occasionally build tools to speed up research.
+ECE @ HKU. I work on robot learning, applied ML, and occasionally build tools to speed up research.
 
 Interested in how robots can learn manipulation skills efficiently, and what happens when ML models meet messy, heterogeneous real-world data.
 
@@ -14,4 +14,4 @@ Interested in how robots can learn manipulation skills efficiently, and what hap
 
 #### Tools
 
-Python · C++ · PyTorch · scikit-learn · ROS · SHAP · XGBoost
+Python · C++ · PyTorch · scikit-learn · ROS
