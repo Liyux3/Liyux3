@@ -1,15 +1,18 @@
-### Hi, I'm Yuxian
+## Yuxian Li
 
-EECS honors student at the University of Hong Kong, working across robotics, machine learning, and full-stack development.
+EECS honors @ HKU. I work on robot learning, applied ML, and occasionally build tools to speed up research.
 
-Currently interested in robot learning (flow matching policies, imitation learning), applied ML (survey harmonization, distribution shift), and building tools that make research workflows faster.
+Interested in flow matching policies, imitation learning, distribution shift, and survey harmonization.
 
-#### Selected Projects
+#### Projects
 
-| Project | What it is |
-|---------|-----------|
-| [Streaming Flow Policy](https://github.com/Liyux3/lerobot_MLP-SFP) | MLP-based velocity net for real-time robot control, built on LeRobot |
-| [Cross-Survey MH Prediction](https://github.com/Liyux3/cross-survey-mental-health-prediction) | Harmonizing 8 heterogeneous surveys into a unified ML pipeline with LODO validation |
-| [3-Axis MLP-Mixer](https://github.com/Liyux3/analog-cerebellum) | Flow matching policy for robotic manipulation |
-| [MediBot](https://github.com/Liyux3/MediBot) | Dual-mode autonomous patrol robot |
-| [Scholar MCP](https://github.com/Liyux3/scholar-mcp) | MCP server for academic paper search, ~97% coverage of peer-reviewed literature |
+[Streaming Flow Policy](https://github.com/Liyux3/lerobot_MLP-SFP) ·
+[Cross-Survey MH Prediction](https://github.com/Liyux3/cross-survey-mental-health-prediction) ·
+[3-Axis MLP-Mixer](https://github.com/Liyux3/analog-cerebellum) ·
+[MediBot](https://github.com/Liyux3/MediBot) ·
+[Scholar MCP](https://github.com/Liyux3/scholar-mcp)
+
+#### Tools
+
+Python · PyTorch · scikit-learn · ROS · C++ · React · Node.js
+
